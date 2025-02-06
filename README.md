@@ -1,4 +1,4 @@
-# GenerativeAI
+# Image Generation
 **Image Generation with Leap AI API**
 
 This Jupyter Notebook demonstrates the process of generating images using the Leap AI API. The code interacts with the API to generate realistic images based on given prompts. The prompts provide high-level descriptions or concepts, and the API uses machine learning models to generate corresponding images.
